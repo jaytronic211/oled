@@ -2,7 +2,7 @@
 <# 
 .SYNOPSIS
  
-    Get-TeamsAssignedNumbers.ps1 collects numbers from all Microsoft Teams.
+    Get-TeamsAssignedNumbers.ps1 collects from all Microsoft Teams.
  
 .DESCRIPTION
     Author: Andrew Morpeth
